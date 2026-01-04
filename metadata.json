@@ -1,5 +1,0 @@
-{
-  "name": "Takuzu Master",
-  "description": "A mathematical logic puzzle game also known as Binairo. Fill the 6x6 grid with black and white tiles following three simple rules: equal counts per line, no more than two consecutive identical tiles, and unique rows/columns.",
-  "requestFramePermissions": []
-}
